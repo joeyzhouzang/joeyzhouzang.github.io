@@ -217,4 +217,5 @@ awards:
     icon: hero/currency-dollar
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Zhou Zang is a PhD Canadiate at University of Geography, where he studies ozone and its variations on the surface and in the troposphere. His research has been published in top journals like ACP and EST, with over 800 citations. Zhou has unique research experiences and background in atmospheric environment and remote sensing. This makes it possible for him to carry out cutting edge research that can address urgent issues related to our atmospheric environment, such as air quality and climate change.
+
