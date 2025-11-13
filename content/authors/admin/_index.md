@@ -64,7 +64,7 @@ education:
     
       Supervised by Prof. Jane Liu and Prof. Jing Chen
 
-      Field of study: Tropospheric ozone climatology and trend
+      'Field of study: Tropospheric ozone climatology and trend'
     
     #button:
     #  text: 'Read Thesis'
@@ -80,7 +80,7 @@ using hybrid physical and deep learning approaches_.
       
       Supervised by Prof. Xing Yan
 
-      Research interest: Atmospheric remote sensing, Spatiotemporal analysis
+      'Research interest: Atmospheric remote sensing, Spatiotemporal analysis'
     
       GPA: 3.8/4.0
 
@@ -94,6 +94,10 @@ using hybrid physical and deep learning approaches_.
     date_start: 2015-09-01
     date_end: 2019-06-30
     summary: |
+      Thesis on _The impact of PM2.5 concentrations on infectious diseases in China, (selected as Excellent Thesis)_.
+      
+      Supervised by Prof. Siyu Chen
+    
       GPA: 4.6/5.0
 
 work:
