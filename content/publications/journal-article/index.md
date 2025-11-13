@@ -1,7 +1,7 @@
 ---
 title: "The improved Trajectory-mapped Ozonesonde dataset for the Stratosphere and Troposphere (TOST): update, validation and applications."
 authors:
-- **Zang, Z.
+- **Zang, Z.**
 - Liu, J.
 - Tarasick, D.
 - Moeini, O.
