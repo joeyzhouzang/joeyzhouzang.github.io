@@ -9,6 +9,7 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 date: "2025-07-03T00:00:00Z"
+url_slug: 'https://www.frontiersin.org/journals/environmental-engineering/articles/10.3389/fenve.2025.1601213/full'
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
