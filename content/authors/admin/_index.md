@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Alex Johnson
+title: Zhou Zang
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Zhou
+last_name: Zang
 
 # Pronouns (optional)
 pronouns: he/him
@@ -23,44 +23,46 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: PhD candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
+  - name: University of Toronto
     url: https://ai.meta.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:joey.zang@mail.utoronto.ca'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
+  #- icon: brands/x
+  #  url: https://twitter.com/AlexAIResearch
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://github.com/joeyzhouzang
+  #- icon: brands/linkedin
+  #  url: https://www.linkedin.com/in/alexjohnsonai/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://scholar.google.com/citations?user=3cfKwd0AAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0002-8486-3246
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Tropospheric ozone
+  - Atmopsheric aerosol
+  - Climate change
+  - Remote sensing
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: PhD in Physical Geography
+    institution: University of Toronto
     icon: ""
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+    date_start: 2022-09-01
+    date_end: 2026-12-31
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
+      Thesis on _Scaling Laws for Neural Language Models_.
+      Supervised by Prof. Jane Liu and Prof. Jing Chen
+    
     button:
       text: 'Read Thesis'
       url: 'https://example.com/thesis.pdf'
