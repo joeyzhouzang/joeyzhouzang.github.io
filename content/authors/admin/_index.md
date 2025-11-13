@@ -82,7 +82,7 @@ using hybrid physical and deep learning approaches_.
 
       'Research interest: Atmospheric remote sensing, Spatiotemporal analysis'
 
-      GPA: 3.8/4.0
+      'GPA: 3.8/4.0'
 
     button:
       text: 'Read Thesis (in Chinese)'
@@ -98,7 +98,7 @@ using hybrid physical and deep learning approaches_.
       
       Supervised by Prof. Siyu Chen
     
-      GPA: 4.6/5.0
+      'GPA: 4.6/5.0'
 
 work:
   - position: Lecturer
