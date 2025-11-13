@@ -77,11 +77,11 @@ education:
     summary: |
       Thesis on _A global land aerosol fine-mode aerosol optical depth dataset (2001–2020) retrieved from MODIS
 using hybrid physical and deep learning approaches_.
-      
+
       Supervised by Prof. Xing Yan
 
       'Research interest: Atmospheric remote sensing, Spatiotemporal analysis'
-    
+
       GPA: 3.8/4.0
 
     button:
