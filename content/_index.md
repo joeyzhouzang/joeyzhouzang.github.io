@@ -71,11 +71,6 @@ sections:
           - events
     design:
       view: card
-<<<<<<< HEAD
-     
-=======
-  - block: collection
->>>>>>> 3ae7055a3cd9fc53e91b3bb4d20a5cfa6ac74cb5
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
