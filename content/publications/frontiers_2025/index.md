@@ -9,6 +9,7 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 date: "2025-07-03T00:00:00Z"
+external_link: 'https://doi.org/10.3389/fenvs.2025.1601213
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
@@ -23,9 +24,6 @@ publication_short: ""
 
 summary: |
   This study utilized a high-accuracy machine learning model ($R^2=0.82$) to construct a high-resolution MDA8 O3 dataset for Ontario (2004–2023), characterizing significant spatiotemporal O3 heterogeneity and confirming that despite successful summertime O3 reductions in Southern Ontario, elevated levels remain an air quality concern.
-
-# Summary. An optional shortened abstract.
-summary1:  This study utilized a high-accuracy machine learning model ($R^2=0.82$) to construct a high-resolution MDA8 O3 dataset for Ontario (2004–2023), characterizing significant spatiotemporal O3 heterogeneity and confirming that despite successful summertime O3 reductions in Southern Ontario, elevated levels remain an air quality concern.
 
 tags:
 - Source Themes
