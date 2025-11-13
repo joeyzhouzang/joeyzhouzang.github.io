@@ -33,8 +33,8 @@ hugoblox:
     arxiv: 1512.04133v1
 
 links:
-  -type: site
-    url: "https://doi.org/10.3389/fenvs.2025.1601213"
+  - type: site
+    url: https://doi.org/10.3389/fenvs.2025.1601213
   - type: pdf
     url: fenve-1-1601213.pdf
   - type: dataset
