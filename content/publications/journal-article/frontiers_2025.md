@@ -21,8 +21,7 @@ publication_types: ["article-journal"]
 publication: "*Frontiers in Environmental Engineering, 4*, 1601213"
 publication_short: ""
 
-abstract: 
-Introduction: Ground-level ozone (O3) remains a persistent air quality concern in Ontario, Canada’s most populous province. Understanding long-term trends and spatially explicit details of O3 is important for supporting air quality management in Ontario.
+abstract: Introduction: Ground-level ozone (O3) remains a persistent air quality concern in Ontario, Canada’s most populous province. Understanding long-term trends and spatially explicit details of O3 is important for supporting air quality management in Ontario.
 
 Method: We construct a high-resolution (daily, 10 km) dataset of maximum daily 8-hour average O3 (MDA8 O3) over Ontario from 2004 to 2023, through a two-step
 machine learning model. The model has incorporated our hypothesis that accounting for transboundary in uences can enhance the accuracy of O3 estimation.
