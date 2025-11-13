@@ -41,12 +41,26 @@ sections:
     design:
       columns: 1
   - block: collection
+    id: papers
     content:
       title: Recent Publications
       text: ''
       filters:
         folders:
           - publications
+        exclude_featured: false
+    design:
+      view: citation
+    
+    columns: 2
+  - block: collection
+    id: talks
+    content:
+      title: Recent Presentations
+      text: ''
+      filters:
+        folders:
+          - conference-paper
         exclude_featured: false
     design:
       view: citation
