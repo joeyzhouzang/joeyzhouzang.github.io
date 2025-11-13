@@ -27,7 +27,7 @@ role: PhD candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: University of Toronto
+  - name: University of Toronto, Department of Geography
     url: https://www.geography.utoronto.ca/
 
 # Social network links
@@ -63,6 +63,8 @@ education:
       Thesis on _Tropospheric ozone trends and interannual variability across continental and regional scales: insights from newly-constructed datasets using physical-based statistical approaches_.
     
       Supervised by Prof. Jane Liu and Prof. Jing Chen
+
+      Field of study: Tropospheric ozone climatology and trend
     
     #button:
     #  text: 'Read Thesis'
@@ -73,6 +75,13 @@ education:
     date_start: 2019-09-01
     date_end: 2022-06-30
     summary: |
+      Thesis on _A global land aerosol fine-mode aerosol optical depth dataset (2001–2020) retrieved from MODIS
+using hybrid physical and deep learning approaches_.
+      
+      Supervised by Prof. Xing Yan
+
+      Research interest: Atmospheric remote sensing, Spatiotemporal analysis
+    
       GPA: 3.8/4.0
 
     button:
