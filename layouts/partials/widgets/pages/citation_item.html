@@ -1,0 +1,26 @@
+{{/* citation_item.html - Simplified to remove hyperlink on title */}}
+{{ $item := . }}
+{{ $pub := $item.Page }}
+{{ $pub_meta := partial "functions/get_pub_meta" $pub }}
+{{ $page_path := $pub_meta.page_path }}
+{{ $link := "" }}
+{{ $target := "" }}
+
+{{ $title := $pub.Title | markdownify }}
+
+<div class="row">
+  <div class="col-12 col-lg-auto pub-item-details">
+    <h3 class="article-title text-xl font-bold my-1 text-black dark:text-white">
+      {{/* ---------------------------------------------------- */}}
+      {{/* 核心修改区域：直接显示标题，不加链接 */}}
+      {{/* ---------------------------------------------------- */}}
+      {{ $title }}
+    </h3>
+
+    {{/* 引用作者、期刊等信息 */}}
+    {{ partial "blocks/v3/citation" (dict "item" $item "pub_meta" $pub_meta) }}
+    
+    {{/* 链接按钮区域 */}}
+    {{ partial "blocks/v3/links_small" (dict "item" $item "link_url" $link "link_target" $target) }}
+  </div>
+</div>
