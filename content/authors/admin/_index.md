@@ -54,36 +54,38 @@ interests:
   - Remote sensing
 
 education:
-  - area: PhD in Physical Geography
+  - area: PhD Physical Geography
     institution: University of Toronto
     icon: ""
     date_start: 2022-09-01
     date_end: 2026-12-31
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_.
+      Thesis on _Tropospheric ozone trends and interannual variability across continental and regional scales: insights from newly-constructed datasets using physical-based statistical approaches_.
+    
       Supervised by Prof. Jane Liu and Prof. Jing Chen
     
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
+    #button:
+    #  text: 'Read Thesis'
+    #  url: 'https://example.com/thesis.pdf'
+  - area: MS Global Environment Change
+    institution: Beijing Normal University
     icon: ""
-    date_start: 2013-09-01
-    date_end: 2015-05-31
+    date_start: 2019-09-01
+    date_end: 2022-06-31
     summary: |
-      GPA: 4.0/4.0
+      GPA: 3.8/4.0
 
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
+    button:
+      text: 'Read Thesis (in Chinese)'
+      url: 'https://example.com/thesis.pdf'
+
+  - area: BS Atmospheric Science
+    institution: Lanzhou University
     icon: ""
-    date_start: 2009-09-01
-    date_end: 2013-05-31
+    date_start: 2015-09-01
+    date_end: 2019-06-31
     summary: |
       GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
 
 work:
   - position: Senior AI Research Scientist
