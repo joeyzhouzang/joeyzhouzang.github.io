@@ -48,7 +48,6 @@ sections:
       filters:
         folders:
           - publications
-          - publications
         exclude_featured: false
     design:
       view: citation
