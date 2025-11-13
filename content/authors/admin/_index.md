@@ -71,7 +71,7 @@ education:
     institution: Beijing Normal University
     icon: ""
     date_start: 2019-09-01
-    date_end: 2022-06-31
+    date_end: 2022-06-30
     summary: |
       GPA: 3.8/4.0
 
@@ -83,7 +83,7 @@ education:
     institution: Lanzhou University
     icon: ""
     date_start: 2015-09-01
-    date_end: 2019-06-31
+    date_end: 2019-06-30
     summary: |
       GPA: 4.6/5.0
 
