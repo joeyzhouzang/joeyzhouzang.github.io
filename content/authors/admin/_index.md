@@ -217,5 +217,5 @@ awards:
     icon: hero/currency-dollar
 ---
 
-Zhou Zang is a PhD Canadiate at University of Geography, where he studies ozone and its variations on the surface and in the troposphere. His research has been published in top journals like ACP and EST, with over 800 citations. Zhou has unique research experiences and background in atmospheric environment and remote sensing. This makes it possible for him to carry out cutting edge research that can address urgent issues related to our atmospheric environment, such as air quality and climate change.
+Zhou Zang is a PhD Canadiate at University of Geography, where he studies ozone and its variations on the surface and in the troposphere. His research has been published in top journals like _Atmospheric Chemistry and Physics_ and _Environmental Science & Technology_, with over 800 citations. Zhou has unique research experiences and background in atmospheric environment and remote sensing. This makes it possible for him to carry out cutting edge research that can address urgent issues related to our atmospheric environment, such as air quality and climate change.
 
