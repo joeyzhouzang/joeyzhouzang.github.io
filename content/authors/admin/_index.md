@@ -75,8 +75,7 @@ education:
     date_start: 2019-09-01
     date_end: 2022-06-30
     summary: |
-      Thesis on _A global land aerosol fine-mode aerosol optical depth dataset (2001–2020) retrieved from MODIS
-using hybrid physical and deep learning approaches_.
+      Thesis on _A global land aerosol fine-mode aerosol optical depth dataset (2001–2020) retrieved from MODIS using hybrid physical and deep learning approaches_.
 
       Supervised by Prof. Xing Yan
 
