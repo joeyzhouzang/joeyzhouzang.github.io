@@ -34,7 +34,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        My core research focuses on the spatio-temporal dynamics of **Tropospheric Ozone**. Through quantitative analysis, I investigate long-term trends and interannual variability across continental and regional scales, which is critical for understanding ozone’s impact on **air quality and climate change**.
+        My core research focuses on the spatiotemporal variations of **tropospheric ozone**. Through quantitative analysis, I investigate long-term trends and interannual variability across continental and regional scales, which is critical for understanding ozone’s impact on **air quality and climate change**.
         I specialize in applying advanced quantitative methods and remote sensing techniques to generate high-quality atmospheric pollution datasets, including ozone, PM2.5, and fine/coarse mode Aerosol Optical Depth (fAOD/cAOD).
     
         Please reach out to collaborate 😃
