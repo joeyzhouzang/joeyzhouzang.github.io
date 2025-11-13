@@ -25,3 +25,8 @@ main:
   #- name: Courses
   #  url: courses/
   #  weight: 40
+  blocks:
+  news:
+    enable: false
+  courses:
+    enable: false
