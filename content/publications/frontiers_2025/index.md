@@ -28,10 +28,6 @@ tags:
 - Source Themes
 featured: false
 
-hugoblox:
-  ids:
-    arxiv: 1512.04133v1
-
 links:
   - type: site
     url: https://doi.org/10.3389/fenvs.2025.1601213
